@@ -31,10 +31,10 @@ int main(){
 			estado = 1;
 		}
 		if(estado == 0){
-		printf("\"%s\" e multiplo de 3\n", binario, estado);
+		printf("\"%s\" e multiplo de 3\n", binario );
 		}
 	    else if(estado == 1){
-		printf("\"%s\" nao e\n", binario, estado);
+		printf("\"%s\" nao e\n", binario);
 		} 
 		break;
 	}
