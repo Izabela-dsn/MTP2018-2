@@ -7,7 +7,7 @@ int main(){
 	char num[256];
 	int i, numt = 0, j = 1, k;
 	
-	scanf("%s", &num);
+	scanf("%s", num);
 	
 	for(i=0;num[i] != '\0';i++){
 			if(num[i] == '9'){
