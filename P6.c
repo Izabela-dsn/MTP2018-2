@@ -1,3 +1,7 @@
+//P6.c//
+//11811ECP026 //
+//Izabela da Silva //
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
